@@ -3,5 +3,10 @@
     "name": "Tömkörningsprogram, trav, sidvärts och ryggning (20x40)",
     "file": "tomkorning_trav_sidvarts_ryggning_20x40.json",
     "description": "30 moment: trav, sidvärts och ryggningsövningar"
+  },
+  {
+    "name": "Avslutning Ryttarutvecklingen (LC/LB)",
+    "file": "Avslutning_Ryttarutvecklingen LD+LB.json",
+    "description": "Teknik och speed, 30x70m, 11 hinder"
   }
 ]
