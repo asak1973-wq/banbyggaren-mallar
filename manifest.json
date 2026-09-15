@@ -4,9 +4,29 @@
     "file": "tomkorning_trav_sidvarts_ryggning_20x40.json",
     "description": "30 moment: trav, sidvärts och ryggningsövningar"
   },
+    {
+    "name": "Tömkörning med galopp",
+    "file": "Tömkörning med galopp.json",
+    "description": "Tömkörningsprogram som inkluderar galoppmoment"
+  },
   {
     "name": "Avslutning Ryttarutvecklingen (LC/LB)",
     "file": "Avslutning_Ryttarutvecklingen LD+LB.json",
     "description": "Teknik och speed, 30x70m, 11 hinder"
+  },
+  {
+    "name": "Avslutning Ryttarutvecklingen (LD)",
+    "file": "Avslutning_Ryttarutvecklingen LD.json",
+    "description": "Teknik och speed, klass LD"
+  },
+  {
+    "name": "Avslutning Ryttarutvecklingen (MSV B)",
+    "file": "Avslutning_Ryttarutvecklingen MSV B.json",
+    "description": "Teknik och speed, klass MSV B"
+  },
+  {
+    "name": "Avslutning Ryttarutveckling (Hoppning)",
+    "file": "Avslutning_ryttarutveckling_(hoppning).json",
+    "description": "Avslutningsbana för ryttarutveckling, hoppning"
   }
 ]
